@@ -22,7 +22,6 @@ begin
 	using DataFrames
 	using ImageFiltering
 	using Parameters
-	using LazySets
 	using KernelDensity
 	using Gadfly
 	using Cairo
